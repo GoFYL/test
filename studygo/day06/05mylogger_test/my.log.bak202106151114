@@ -1,0 +1,135 @@
+[2021-06-15 11:12:59] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:12:59] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:12:59] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:12:59] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:13:01] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:13:01] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:13:01] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:13:01] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:13:03] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:13:03] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:13:03] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:13:03] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:13:05] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:13:05] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:13:05] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:13:05] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:13:07] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:13:07] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:13:07] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:13:07] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:13:09] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:13:09] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:13:09] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:13:09] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:13:11] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:13:11] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:13:11] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:13:11] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:13:13] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:13:13] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:13:13] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:13:13] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:13:15] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:13:15] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:13:15] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:13:15] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:13:17] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:13:17] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:13:17] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:13:17] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:13:19] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:13:19] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:13:19] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:13:19] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:13:21] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:13:21] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:13:21] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:13:21] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:13:23] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:13:23] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:13:23] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:13:23] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:13:25] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:13:25] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:13:25] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:13:25] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:13:27] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:13:27] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:13:27] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:13:27] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:13:29] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:13:29] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:13:29] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:13:29] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:13:31] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:13:31] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:13:31] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:13:31] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:13:33] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:13:33] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:13:33] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:13:33] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:13:35] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:13:35] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:13:35] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:13:35] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:13:37] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:13:37] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:13:37] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:13:37] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:13:39] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:13:39] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:13:39] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:13:39] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:13:41] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:13:41] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:13:41] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:13:41] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:13:43] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:13:43] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:13:43] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:13:43] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:13:45] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:13:45] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:13:45] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:13:45] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:13:47] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:13:47] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:13:47] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:13:47] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:13:49] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:13:49] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:13:49] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:13:49] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:13:51] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:13:51] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:13:51] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:13:51] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:13:53] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:13:53] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:13:53] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:13:53] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:13:55] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:13:55] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:13:55] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:13:55] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:13:57] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:13:57] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:13:57] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:13:57] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:13:59] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:13:59] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:13:59] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:13:59] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:14:01] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:14:01] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:14:01] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:14:01] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:14:03] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:14:03] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:14:03] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang
+[2021-06-15 11:14:03] [FATAL][main.go:main:20]这是一条Fatal日志
+[2021-06-15 11:14:05] [INFO][main.go:main:15]这是一条Info日志
+[2021-06-15 11:14:05] [WARNING][main.go:main:16]这是一条Warning日志
+[2021-06-15 11:14:05] [ERROR][main.go:main:19]这是一条Error日志,id:10010,name :lixiang

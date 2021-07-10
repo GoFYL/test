@@ -1,0 +1,39 @@
+package main
+
+import "fmt"
+
+//同一个结构体可以实现多个接口
+//接口还可以嵌套
+
+type animal interface {
+	mover
+	eater
+}
+type mover interface {
+	move()
+}
+
+type eater interface {
+	eat(string)
+}
+
+type cat struct {
+	name string
+	feet int8
+}
+
+//cat实现了mover接口
+func (c *cat) move() {
+	fmt.Println("猫动")
+}
+
+//cat实现了eater接口
+func (c *cat) eat(food string) {
+	fmt.Printf("猫吃%s\n", food)
+}
+func main() {
+	var a2 animal
+	c1 := cat{"f", 4}
+	a2 = &c1
+	a2.eat("鱼")
+}

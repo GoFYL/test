@@ -1,0 +1,10 @@
+[2021-06-22 16:02:33] [ERROR][main.go:main:21]这是一条Error日志,id:10010,name :lixiang
+[2021-06-22 16:02:33] [FATAL][main.go:main:23]这是一条Fatal日志
+[2021-06-22 16:02:34] [INFO][main.go:main:17]这是一条Info日志
+[2021-06-22 16:02:34] [WARNING][main.go:main:18]这是一条Warning日志
+[2021-06-22 16:02:34] [ERROR][main.go:main:21]这是一条Error日志,id:10010,name :lixiang
+[2021-06-22 16:02:34] [FATAL][main.go:main:23]这是一条Fatal日志
+[2021-06-22 16:02:35] [INFO][main.go:main:17]这是一条Info日志
+[2021-06-22 16:02:35] [WARNING][main.go:main:18]这是一条Warning日志
+[2021-06-22 16:02:35] [ERROR][main.go:main:21]这是一条Error日志,id:10010,name :lixiang
+[2021-06-22 16:02:35] [FATAL][main.go:main:23]这是一条Fatal日志
